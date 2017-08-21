@@ -1,14 +1,14 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignemtn 2 Week 3
+## functions define matrix x and call it 
 
-## Write a short comment describing this function
+## make cashe matrix as function x
 
 makeCacheMatrix <- function(x = matrix()) {
 
 }
 
 
-## Write a short comment describing this function
+## returen a matrix that is the inverse of 'x"
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
